@@ -27,7 +27,7 @@ python main.py
 
 ---
 
-### Successfully trained model examples:
+### Successfully trained model examples
 [image1]: ./example_images/umm_000008_original.png
 [image2]: ./example_images/um_000022_original.png
 [image3]: ./example_images/umm_000008.png

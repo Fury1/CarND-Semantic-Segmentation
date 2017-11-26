@@ -1,6 +1,13 @@
+[image1]: ./example_images/umm_000008_original.png
+[image2]: ./example_images/um_000022_original.png
+[image3]: ./example_images/umm_000008.png
+[image4]: ./example_images/um_000022.png
+[image5]: ./example_images/3-Figure3-1.png
+
 # Semantic Segmentation
 ### Introduction
 In this project a Fully Convolutional Network (FCN) is used to define the pixels in an image that represent the road.
+![FCNN][image5]
 
 ### Setup
 ##### Frameworks and Packages
@@ -28,10 +35,6 @@ python main.py
 ---
 
 ### Successfully trained model examples
-[image1]: ./example_images/umm_000008_original.png
-[image2]: ./example_images/um_000022_original.png
-[image3]: ./example_images/umm_000008.png
-[image4]: ./example_images/um_000022.png
 
 |Example 1| Example 2|
 |:---:|:---:|
